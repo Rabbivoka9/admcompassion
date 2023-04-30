@@ -3,9 +3,10 @@ import { Carousel } from "react-materialize"
 
 function Slide (){
     return(
-        <Carousel 
+      <div className="global">
+               <Carousel  
   carouselId="Carousel-48"
-  className="white-text center, sp"
+  className="Gl, white-text center, sp"
   options={{
     fullWidth: true,
     indicators: true
@@ -43,5 +44,8 @@ ne périsse point mais qu’il ait la vie éternelle. »
     </h2>
   </div>
 </Carousel>
+      </div>
+
+       
     )
 } export default Slide

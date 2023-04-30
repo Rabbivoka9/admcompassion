@@ -13,9 +13,8 @@ function Accueil(){
 
             <div className="disposition">
 
-            <div>
-              
-                  <Car1 img="MT.jpeg" Nom='Couple Marcello & Blanche TUNASI' desc=' Effectif Eglise:12000 Membres Situation : En déménagement sur le numero 9 en attendant la finition du temple au numéro 4. Contact:+243817080007 ' titre='Compassion/LIMETE'/>
+                <div>
+                 <Car1 img="MT.jpeg" Nom='Couple Marcello & Blanche TUNASI' desc=' Effectif Eglise:12000 Membres Situation : En déménagement sur le numero 9 en attendant la finition du temple au numéro 4. Contact:+243817080007 ' titre='Compassion/LIMETE'/>
                 </div>
                 <div>
                   <Car1 img="past elie.png" Nom='Pasteur Elie TSHISWAKA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/KITAMBO'/>
