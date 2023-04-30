@@ -25,7 +25,7 @@ function Accueil(){
                 </div>
 
                 <div>
-                  <Car1 img="past Bishop.png" Nom='Pasteur Bishop MUKULUMPA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/MAMA MOBUTU'/>
+                  <Car1 img="past Bishop.png" Nom='Pasteur Bishop MUKULUMPA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/M MOBUTU'/>
                 </div>
 
                 <div>

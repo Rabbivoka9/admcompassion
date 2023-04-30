@@ -11,9 +11,9 @@ function Car1(props){
     <Card 
       closeIcon={<Icon>close</Icon>}
       header={<CardTitle className="For" image={props.img} reveal waves="light"/>}
-      reveal={<p> {props.desc} </p>}
+      reveal={<p> {props.desc} {props.desc} {props.desc} </p>}
       revealIcon={<Icon>visibility</Icon>}
-      title={props.titre}
+      title={<h6> {props.titre} </h6>}
     >
       <p>
         <a href="#">
