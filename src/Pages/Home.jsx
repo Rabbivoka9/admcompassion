@@ -7,7 +7,7 @@ import Pied from "../Composant/Flooter";
 function Accueil(){
     return (
 
-        <div>
+        <div className="tout">
             <Header/>
             <Slide/>
 

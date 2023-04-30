@@ -8,8 +8,13 @@
   background-color: white;
 }
 
+.a{
+  color: blue;
+  font-weight: bold;
+}
 
-Carousel{
+
+.Carousel{
   height: 500px;
 }
 
@@ -22,14 +27,22 @@ Carousel{
   justify-content: center;
   align-items: center;
   text-align: center;
+  border-radius: 1px 1px 55px  195px;
+  
 }
 
 .sides-7 {
   font-family: 'Sigmar', cursive;
+ 
 }
 
 .titre1{
   font-size: 2vw;
+}
+
+.tout{
+  background-image: linear-gradient(rgba(253, 253, 253, 0.939), rgba(255, 255, 255, 0.7)),url("/public/fond3.jpeg");
+  background-size: cover;
 }
 
 .amber{
@@ -69,20 +82,16 @@ Carousel{
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
-  gap: 10px;
+  margin-top: 40px;
   
 }
 
-.Car{
 
-  width: 250px;
-  margin-top: 20px;
-  
-}
 
 .card{
   width: 250px;
   height: 320px;
+  border: solid red 1px;
 }
 
 .card-title{
@@ -91,8 +100,9 @@ Carousel{
 
 
 .For{
+  
   height: 200px;
-  width: 250px;
+  width: 248px;
   
 }
 
@@ -198,6 +208,7 @@ Carousel{
   .sides-7 {
     font-size: 8vw;
     font-family: 'Sigmar', cursive;
+    width: none;
   }
   
   .titre1{

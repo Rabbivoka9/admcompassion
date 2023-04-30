@@ -11,7 +11,7 @@ function Header (){
                     brand={<a className="brand-logo" href="#"><img className="logo" src="logocompassion.png" alt="" /></a>}
                     centerChildren
                     id="mobile-nav"
-                    menuIcon={<Icon></Icon>}
+                    menuIcon={<Icon>Navico</Icon>}
                     options={{
                         draggable: true,
                         edge: 'left',
@@ -25,7 +25,7 @@ function Header (){
                     }}
                     >
                     <NavItem className="a" to="/"  href="">
-                        Home
+                        Contact
                     </NavItem>
                     
         </Navbar>
