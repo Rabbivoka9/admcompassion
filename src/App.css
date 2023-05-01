@@ -27,17 +27,17 @@
   justify-content: center;
   align-items: center;
   text-align: center;
-  border-radius: 1px 1px 55px  195px;
   
 }
 
 .sides-7 {
-  font-family: 'Sigmar', cursive;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
  
 }
 
 .titre1{
-  font-size: 2vw;
+  font-size: 1vw;
 }
 
 .tout{
@@ -78,13 +78,62 @@
 }
 
 .disposition{
+ 
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  
+}
+
+
+.zkin{
+
+  width: 1400px;
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   align-items: center;
   margin-top: 40px;
-  
 }
+
+.zafrik{
+  width: 1400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+
+.zeuro{
+  width: 1400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+}
+
+.zpro{
+  width: 1400px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  margin-top: 40px;
+
+}
+
+
+.zone{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+}
+
 
 
 
@@ -107,12 +156,15 @@
 }
 
 .foot{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   text-align: center;
-  margin-left: 200px;
+  
 }
 
 .footer{
-  background-color: black;
+  background-color: rgb(66, 4, 123);
   display: flex;
   align-items: center;
   justify-content: center;
@@ -144,8 +196,6 @@
     width: 100%;
     max-width: 180px;
   }
-
-
   
   .a{
     font-size: 1rem;
@@ -207,12 +257,13 @@
   
   .sides-7 {
     font-size: 8vw;
-    font-family: 'Sigmar', cursive;
+    font-family: 'Oswald', sans-serif;
+    font-weight: bold;
     width: none;
   }
   
   .titre1{
-    font-size: 4vw;
+    font-size: 3vw;
   }
   
   .pres{
@@ -222,11 +273,60 @@
   }
 
   .disposition{
+ 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    
+    
+  }
+  
+  
+  .zkin{
+  
+    width: 140px;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
-    margin-left: 0px;
+    margin-top: 40px;
+  }
+  
+  .zafrik{
+    width: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  
+  .zeuro{
+    width: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  }
+  
+  .zpro{
+    width: 140px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin-top: 40px;
+  
+  }
+
+
+  .zone{
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
   }
   
   .For{
@@ -240,14 +340,23 @@
     margin-top: 20px;
     border: solid red 1px;
   }
+
+  .foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    
+  }
   
   .footer{
-    background-color: black;
+    background-color: rgb(66, 4, 123);
     display: flex;
     align-items: center;
     justify-content: center;
     text-align: center;
     padding: 10px;
+    text-align: center;
   }
   
  

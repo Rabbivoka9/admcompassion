@@ -13,6 +13,11 @@ function Accueil(){
 
             <div className="disposition">
 
+
+              <h3  className="zone">Zone Rd-Congo/Kinshasa</h3>
+
+              <div className="zkin">
+
                 <div>
                  <Car1 img="MT.jpeg" Nom='Couple Marcello & Blanche TUNASI' desc=' Effectif Eglise:12000 Membres Situation : En déménagement sur le numero 9 en attendant la finition du temple au numéro 4. Contact:+243817080007 ' titre='Compassion/LIMETE'/>
                 </div>
@@ -40,7 +45,7 @@ function Accueil(){
                   <Car1 img="Mark.png" Nom='Pasteur Mark DUEME' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/GB'/>
                 </div>
                 <div>
-                  <Car1 img="past jhon.png" Nom='Pasteur John MAMBA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/KITAMBO'/>
+                  <Car1 img="past jhon.png" Nom='Pasteur John MAMBA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/BANDAL'/>
                 </div>
                 <div>
                   <Car1 img="past judelle.png" Nom='Pasteur Judelle KINGOMBE' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/YOLO'/>
@@ -62,7 +67,16 @@ function Accueil(){
                   <Car1 img="past patrick.png" Nom='Pasteur Patrick ILUNGA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/UPN'/>
                 </div>
 
-                <div>
+           </div>
+           
+           
+           
+           <h3  className="zone">Zone Afrique</h3>
+
+
+           <div className="zafrik">
+
+           <div>
                   <Car1 img="past shekinah.png" Nom='Pasteur Shekinah OKAMO' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/Brazaville'/>
                 </div>
 
@@ -90,6 +104,13 @@ function Accueil(){
                   <Car1 img="past lome.png" Nom='Pasteur Josué KAYINDA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/YAOUNDE'/>
                 </div>
 
+
+           </div>
+
+
+           <h3 className="zone">Zone Europe </h3>
+
+          <div className="zeuro">
                 <div>
                   <Car1 img="past cospiel.png" Nom='Pasteur Cospiel' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/PARIS'/>
                 </div>
@@ -102,7 +123,15 @@ function Accueil(){
                   <Car1 img="past max.png" Nom='Pasteur Max RENAUX' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/Luxemb'/>
                 </div>
 
-                <div>
+
+          </div>
+
+
+          <h3  className="zone">Zone Rd-Congo/Province</h3>
+        
+          <div className="zpro">
+
+          <div>
                   <Car1 img="past tresor.png" Nom='Pasteur Tresor ' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/BUNIA'/>
                 </div>
 
@@ -141,6 +170,11 @@ function Accueil(){
                 <div>
                   <Car1 img="past roger.png" Nom='Pasteur Roger' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/MALEBO'/>
                 </div>
+
+          </div>
+                
+
+                
 
             </div>
                 
