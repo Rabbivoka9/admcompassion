@@ -9,8 +9,10 @@
 }
 
 .a{
-  color: blue;
+  color: white;
   font-weight: bold;
+  background-color: red;
+  height: 70px;
 }
 
 
@@ -19,7 +21,7 @@
 }
 
 .red{
-  background-image: linear-gradient(rgba(115, 7, 173, 0.7), rgba(6, 0, 0, 0.9)),url("/public/fond1.jpeg");
+  background-image: linear-gradient(rgba(178, 66, 238, 0.7), rgba(19, 19, 19, 0.9)),url("/public/fond1.jpeg");
   background-size: cover;
   display: flex;
   height: 1500px;
@@ -46,11 +48,14 @@
 }
 
 .amber{
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(6, 0, 0, 0.7)),url("/public/fond2.jpeg");
+  font-family: 'Oswald', sans-serif;
+  font-size: 26px;
+  background-image: linear-gradient(rgba(103, 4, 4, 0.7), rgba(6, 0, 0, 0.7)),url("/public/fond2.jpeg");
   background-size: cover;
   display: flex;
   flex-direction: column;
   align-items: center;
+  justify-content: center;
 }
 
 .pres{
@@ -60,8 +65,9 @@
 }
 
 .green{
-  background-image: linear-gradient(rgba(244, 240, 237, 0.962), rgba(244, 240, 240, 0.7)),url("/public/fond3.jpeg");
+  background-image: linear-gradient(rgba(250, 164, 99, 0.962), rgba(7, 0, 0, 0.7)),url("/public/fond3.jpeg");
   background-size: cover;
+  font-size: 26px;
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -128,14 +134,28 @@
 }
 
 
-.zone{
+
+.zone {
+  color: rgb(61, 2, 47);
   font-size: 30px;
   font-weight: bold;
   font-family: 'Oswald', sans-serif;
+  padding: 8px;
+  border-radius:0 0 12px 12px;
+  border:3px solid #f0050500;
+  border-top: none;
+  -webkit-mask:
+    linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+    linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+    linear-gradient(#fff 0 0) top /calc(100% - 12px) calc(100% - 12px);
+  -webkit-mask-repeat:no-repeat;
+  transition: 0.3s,border-color 0.3s 0.3s;
 }
-
-
-
+.zone{
+  border-color:currentColor;
+  -webkit-mask-position:0% 100%,100% 100%,top;
+  transition: 0.3s,-webkit-mask-position 0.3s 0.3s;
+}
 
 .card{
   width: 250px;
@@ -160,6 +180,9 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  margin-left: 400px;
+  width: 500px;
+  font-size: 20px;
   
 }
 
@@ -171,6 +194,31 @@
   text-align: center;
   padding: 10px;
 }
+
+.cont-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  margin-left: 400px;
+  width: 500px;
+}
+
+.icon{
+  width: 30px;
+}
+
+.nn{
+  color: rgb(98, 2, 74);
+  font-size: 15px;
+  font-weight: bold;
+}
+
+.pp{
+  font-family: 'Oswald', sans-serif;
+  font-size: 20px;
+}
+
 
 
 
@@ -229,7 +277,7 @@
   }
   
   .amber{
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(6, 0, 0, 0.7)),url("/public/fond2.jpeg");
+    background-image: linear-gradient(rgba(103, 4, 4, 0.7), rgba(6, 0, 0, 0.7)),url("/public/fond2.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -237,16 +285,18 @@
   }
   
   .green{
-    background-image: linear-gradient(rgba(244, 240, 237, 0.962), rgba(244, 240, 240, 0.7)),url("/public/fond3.jpeg");
+    background-image: linear-gradient(rgba(250, 164, 99, 0.962), rgba(7, 0, 0, 0.7)),url("/public/fond3.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    text-align: center;
+    
   }
   
   .blue {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(6, 0, 0, 0.7)),url("/public/fond4.jpeg");
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(101, 4, 99, 0.7)),url("/public/fond4.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -331,14 +381,13 @@
   
   .For{
     height: 220px;
-    max-width: 100%;
+    
   }
   
   .Car{
     width: 100%;
-    max-width: 300px;
     margin-top: 20px;
-    border: solid red 1px;
+    
   }
 
   .foot{
@@ -346,6 +395,8 @@
     justify-content: center;
     align-items: center;
     text-align: center;
+    margin-left: 30px;
+    width: 300px;
     
   }
   
@@ -357,6 +408,25 @@
     text-align: center;
     padding: 10px;
     text-align: center;
+  }
+
+  .cont-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin-left: 30px;
+    width: 300px;
+  }
+  
+  .icon{
+    width: 30px;
+  }
+
+  .nn{
+    color: rgb(98, 2, 74);
+    font-size: 9px;
+    font-weight: bold;
   }
   
  

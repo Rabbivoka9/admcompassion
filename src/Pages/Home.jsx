@@ -178,8 +178,10 @@ function Accueil(){
 
             </div>
                 
-                
-            <Pied/>
+               <div className="pied">
+                <Pied/>
+              </div> 
+            
         </div>
         
     )

@@ -31,9 +31,6 @@ function Slide (){
   </div>
   <div className="green">
     
-    <img src="valeur.png" alt="" />
-  </div>
-  <div className="blue">
     <p className="pp">
      
 « Car Dieu a tant aimé le monde qu’il a donné son Fils unique afin que quiconque croit en Lui
