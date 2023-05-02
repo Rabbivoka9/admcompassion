@@ -21,7 +21,7 @@
 }
 
 .red{
-  background-image: linear-gradient(rgba(178, 66, 238, 0.7), rgba(19, 19, 19, 0.9)),url("/public/fond1.jpeg");
+  background-image: linear-gradient(rgba(161, 8, 243, 0.7), rgba(60, 57, 57, 0.9)),url("/public/fond1.jpeg");
   background-size: cover;
   display: flex;
   height: 1500px;
@@ -267,7 +267,7 @@
   }
   
   .red{
-    background-image: linear-gradient(rgba(115, 7, 173, 0.7), rgba(6, 0, 0, 0.9)),url("/public/fond1.jpeg");
+    background-image: linear-gradient(rgba(195, 93, 250, 0.7), rgba(6, 0, 0, 0.9)),url("/public/fond1.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
