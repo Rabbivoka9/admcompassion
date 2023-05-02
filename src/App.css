@@ -20,6 +20,13 @@
   height: 500px;
 }
 
+.ab{
+  color: black;
+}
+
+
+
+
 .red{
   background-image: linear-gradient(rgba(161, 8, 243, 0.7), rgba(60, 57, 57, 0.9)),url("/public/fond1.jpeg");
   background-size: cover;
