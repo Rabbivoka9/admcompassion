@@ -4,7 +4,7 @@ import Car1 from "../Composant/Card1";
 import Pied from "../Composant/Flooter";
 
 
-function Accueil(){
+function Za(){
     return (
 
         <div className="tout">
@@ -12,8 +12,6 @@ function Accueil(){
             
 
             <div className="disposition">
-
-            <h3  className="zone">Zone Afrique</h3>
 
 
 <div className="zafrik">
@@ -59,4 +57,4 @@ function Accueil(){
         </div>
         
     )
-} export default Accueil
+} export default Za

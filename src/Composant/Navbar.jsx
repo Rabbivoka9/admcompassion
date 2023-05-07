@@ -28,14 +28,15 @@ function Header (){
                      {/* <NavItem className="ab" to="/Ze"  href="">
                          
                     </NavItem>  */}
+                    <NavLink to="/" className="ab">Home</NavLink>
+                   <NavLink to="/Zk" className="ab">Kinshasa</NavLink>
+                   <NavLink to="/Zp" className="ab">Province</NavLink>
                    
-                   <NavLink to="/" className="ab">Home</NavLink>
-                   <NavLink to="/Za" className="ab">Zone-Afrique</NavLink>
-                   <NavLink to="/Ze" className="ab">Zone-Europe</NavLink>
-                   <NavLink to="/Zp" className="ab">Zone-Province</NavLink>
-                   <NavLink to="/Zk" className="ab">Zone-Kinshasa</NavLink>
-                   <NavLink to="/" className="ab">Tout</NavLink>
-                   <NavLink to="/" className="ab">Contact</NavLink>
+                   <NavLink to="/Za" className="ab">Afrique</NavLink>
+                   <NavLink to="/Ze" className="ab">Europe</NavLink>
+                   <NavLink to="/General" className="ab">Géneral</NavLink>
+                   <NavLink to="/Organi" className="ab">Organigramme</NavLink>
+                   <NavLink to="/Contact" className="ab conta ">Contact</NavLink>
 
                     {/* <NavItem className="ab" to="/Ze"  href="">
                         Zone-Afrique

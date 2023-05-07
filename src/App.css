@@ -28,7 +28,7 @@
 
 
 .red{
-  background-image: linear-gradient(rgba(161, 8, 243, 0.7), rgba(60, 57, 57, 0.9)),url("/public/fond1.jpeg");
+  background-image: linear-gradient(rgba(245, 207, 246, 0.7), rgba(78, 5, 145, 0.9)),url("/public/3.jpeg");
   background-size: cover;
   display: flex;
   height: 1500px;
@@ -52,6 +52,7 @@
 .tout{
   background-image: linear-gradient(rgba(253, 253, 253, 0.939), rgba(255, 255, 255, 0.7)),url("/public/fond3.jpeg");
   background-size: cover;
+  
 }
 
 .amber{
@@ -96,6 +97,8 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+ 
+ 
   
   
 }
@@ -118,6 +121,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 40px;
+  height: 800px;
 }
 
 
@@ -128,6 +132,7 @@
   justify-content: center;
   align-items: center;
   margin-top: 40px;
+  height: 800px;
 }
 
 .zpro{
@@ -225,6 +230,151 @@
   font-family: 'Oswald', sans-serif;
   font-size: 20px;
 }
+
+.mulaire{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 800px;
+}
+
+.Formulaire{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 500px;
+  height: 400px;
+}
+
+.Btn{
+  width: 60px;
+}
+
+.form1{
+  background-image: linear-gradient(rgba(76, 2, 27, 0.7), rgba(97, 1, 36, 0.7)),url("/public/2.jpeg");
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
+}
+
+.cont-mission{
+  display: flex;
+  width: 900px;
+  gap: 70px;
+  color: #fff;
+}
+
+.mission{
+  font-size: 59px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+}
+
+.paragra{
+ 
+  font-size: 20px;
+  text-align: justify;
+  padding: 20px;
+  color: white;
+  border-radius: 45px 10px;
+}
+
+.form2{
+  background-image: linear-gradient(rgba(248, 248, 251, 0.7), rgba(251, 250, 253, 0.7)),url("/public/4.jpeg");
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 500px;
+}
+
+
+.paragra1{
+  
+ font-size: 20px;
+ text-align: justify;
+ padding: 20px;
+ color: black;
+}
+
+.mission1{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 69px;
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  color: rgb(2, 2, 83);
+}
+
+.visio {
+  color: rgb(61, 2, 47);
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  padding: 8px;
+  border-radius:0 0 12px 12px;
+  border:3px solid #f0050500;
+  border-top: none;
+  -webkit-mask:
+    linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+    linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+    linear-gradient(#fff 0 0) top /calc(100% - 12px) calc(100% - 12px);
+  -webkit-mask-repeat:no-repeat;
+  transition: 0.3s,border-color 0.3s 0.3s;
+}
+.visio{
+  border-color:currentColor;
+  -webkit-mask-position:0% 100%,100% 100%,top;
+  transition: 0.3s,-webkit-mask-position 0.3s 0.3s;
+}
+
+.visio1 {
+  color: rgb(251, 247, 250);
+  font-size: 50px;
+  font-weight: bold;
+  font-family: 'Oswald', sans-serif;
+  padding: 8px;
+  border-radius:0 0 12px 12px;
+  border:3px solid #f0050500;
+  border-top: none;
+  -webkit-mask:
+    linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+    linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+    linear-gradient(#fff 0 0) top /calc(100% - 12px) calc(100% - 12px);
+  -webkit-mask-repeat:no-repeat;
+  transition: 0.3s,border-color 0.3s 0.3s;
+}
+.visio1{
+  border-color:currentColor;
+  -webkit-mask-position:0% 100%,100% 100%,top;
+  transition: 0.3s,-webkit-mask-position 0.3s 0.3s;
+}
+
+.conta{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: red;
+  height: 40px;
+  margin-top: 8px;
+  color: white;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -357,6 +507,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 40px;
+    height: 3000px;
   }
   
   
@@ -367,6 +518,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 40px;
+    height: 1300px;
   }
   
   .zpro{
