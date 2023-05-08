@@ -243,13 +243,18 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: white;
+  background-color: rgb(1, 6, 60);
   width: 500px;
   height: 400px;
+ 
 }
 
-.Btn{
-  width: 60px;
+.ff1{
+  color: white;
+}
+
+.btn{
+  width: 80px;
 }
 
 .form1{
@@ -263,15 +268,23 @@
 
 .cont-mission{
   display: flex;
-  width: 900px;
-  gap: 70px;
+  justify-content: center;
+  align-items: center;
+  width: 1700px;
+  gap: 50px;
   color: #fff;
 }
 
 .mission{
   font-size: 59px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
+}
+
+
+.org{
+  width: 500px;
+  height: 280px;
 }
 
 .paragra{
@@ -306,14 +319,14 @@
   justify-content: center;
   align-items: center;
   font-size: 69px;
-  font-family: 'Oswald', sans-serif;
+  font-family: 'Roboto', sans-serif;
   font-weight: bold;
   color: rgb(2, 2, 83);
 }
 
 .visio {
-  color: rgb(61, 2, 47);
-  font-size: 50px;
+  color: rgb(5, 1, 66);
+  font-size: 40px;
   font-weight: bold;
   font-family: 'Oswald', sans-serif;
   padding: 8px;

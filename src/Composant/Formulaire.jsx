@@ -4,7 +4,7 @@ import { TextInput } from "react-materialize"
 
 function Formulaire(){
     return(
-        <div>
+        <div className="ff1">
             <TextInput
                 id="TextInput-50"
                 label="First Name"

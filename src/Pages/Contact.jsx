@@ -22,6 +22,7 @@ function Contact(){
                         <Formulaire/>
                         <Formulaire1/>
                         <Formulaire2/>
+                        <button className="btn">Send</button>
                         
                     </div>
                 </div>

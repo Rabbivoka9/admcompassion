@@ -35,7 +35,6 @@ function Header (){
                    <NavLink to="/Za" className="ab">Afrique</NavLink>
                    <NavLink to="/Ze" className="ab">Europe</NavLink>
                    <NavLink to="/General" className="ab">Géneral</NavLink>
-                   <NavLink to="/Organi" className="ab">Organigramme</NavLink>
                    <NavLink to="/Contact" className="ab conta ">Contact</NavLink>
 
                     {/* <NavItem className="ab" to="/Ze"  href="">

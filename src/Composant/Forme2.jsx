@@ -25,6 +25,16 @@ function Form2 (){
                     </div>
                 </div>
 
+                <div className="mission1">
+                    <h2 className="visio" >Organigramme</h2>
+                     <div className="paragra1">
+                           <img className="org" src="or.png" alt="" />
+
+                    </div>
+                </div>
+                
+
+                
                
             </div>
             
