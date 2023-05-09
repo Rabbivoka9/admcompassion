@@ -297,7 +297,7 @@
 }
 
 .form2{
-  background-image: linear-gradient(rgba(248, 248, 251, 0.7), rgba(251, 250, 253, 0.7)),url("/public/4.jpeg");
+  background-color: #fff;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -377,6 +377,14 @@
   margin-top: 8px;
   color: white;
   font-weight: bold;
+}
+
+.bb1{
+  font-weight: bold;
+}
+
+.bb10{
+  font-size: 16px;
 }
 
 

@@ -17,43 +17,43 @@ function Zp(){
         <div className="zpro">
 
         <div>
-                <Car1 img="past tresor.png" Nom='Pasteur Tresor ' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/BUNIA'/>
+                <Car1 img="past tresor.png" Nom='Pasteur Tresor KILOLO '  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='En face de l eglise Orthodoxe, 4éme Parcelle à droite, Q.YAMBI' contact='+243' titre='Compassion/BUNIA'/>
               </div>
 
               <div>
-                <Car1 img="past shadrack.png" Nom='Pasteur Shadrack' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/KWILU-NGONGO'/>
+                <Car1 img="past shadrack.png" Nom='Shadrack MAMPUYA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°83, Centre Commercial Réf ex Bar Hewa-Bora avant 3 Maison' contact='+243830237613' titre='Compassion/KWILU-NGONGO'/>
               </div>
 
               <div>
-                <Car1 img="past fidele.png" Nom='Pasteur Fidele' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/MATADI'/>
+                <Car1 img="past fidele.png" Nom='Couple Fidele & Miyah KABELA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°74 , Q.Kinkanda sur la Route Nsanka' contact='+243821429845' titre='Compassion/MATADI'/>
               </div>
 
               <div>
-                <Car1 img="past gedeon.png" Nom='Pasteur Gedeon MULUMBA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/LUSHI'/>
+                <Car1 img="past gedeon.png" Nom='Couple Gedeon & Patience MULUMBA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°17.Du 30 juin coin Djamena, Q.Makutano' contact='+243815689586' titre='Compassion/LUSHI'/>
               </div>
 
               <div>
-                <Car1 img="past sagesse.png" Nom='Pasteur Sagesse' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/KISANGANI'/>
+                <Car1 img="past sagesse.png" Nom='Pasteur Sagesse MAKANDA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°2 Av.Luambo 2ém Q.Des Musiciens, C/Makiso' contact='+243820147433' titre='Compassion/KISANGANI'/>
               </div>
 
               <div>
-                <Car1 img="past mikah.png" Nom='Pasteur Mikah' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/KIKWIT'/>
+                <Car1 img="past mikah.png" Nom='Couple Mikah & PAMBU DIAKAVALA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/KIKWIT'/>
               </div>
 
               <div>
-                <Car1 img="past herve.png" Nom='Pasteur Herve' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/MWANDA'/>
+                <Car1 img="past herve.png" Nom='Couple Herve & Joselyne MAWISA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='Croisement des Av.Siku et Kisangani Réf OEBK' contact='+243815364256' titre='Compassion/MWANDA'/>
               </div>
 
               <div>
-                <Car1 img="past emma.png" Nom='Pasteur Emmanuel LIKITELE' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/HK-GOLF'/>
+                <Car1 img="past emma.png" Nom='Pasteur Emmanuel LIKITELE'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°1. Boulevard Moise KATUMBI, C/Annexe' contact='+243898300889' titre='Compassion/HK-GOLF'/>
               </div>
 
               <div>
-                <Car1 img="past jephete.png" Nom='Pasteur Jepheté BELEKE' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/BAND'/>
+                <Car1 img="past jephete.png" Nom='Couple Jepheté & Maria BELEKE'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°24, av.Aviation, Q.Monusco C/Basoko' contact='+243821360280' titre='Compassion/BAND'/>
               </div>
 
               <div>
-                <Car1 img="past roger.png" Nom='Pasteur Roger' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/MALEBO'/>
+                <Car1 img="past roger.png" Nom='Couple Roger & Bijoux KITAMBO'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°206, Av.Kasongolunda, Q.Malebo, C.Malebo' contact='+243824221050' titre='Compassion/MALEBO'/>
               </div>
 
         </div>
