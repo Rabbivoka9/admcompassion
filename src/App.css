@@ -25,6 +25,25 @@
 }
 
 
+/* 
+.ab{
+  padding-bottom:10px;
+  background:
+   conic-gradient(from 135deg at top   ,currentColor  90deg,#0000 0) bottom 7px left 50% /50% 7px,   
+   conic-gradient(from -45deg at bottom,currentColor  90deg,#0000 0) bottom 0   left 50% /50% 7px,
+   linear-gradient(currentColor 0 0) bottom 5px center/100% 4px;
+ background-repeat:repeat-x;
+  -webkit-mask:
+     linear-gradient(#000 0 0) top    /100% calc(100% - 14px),
+     linear-gradient(#000 0 0) bottom /var(--p,0%) 14px;
+  -webkit-mask-repeat:no-repeat;
+  transition: 0.5s; 
+}
+.ab:hover {
+  --p:100%;
+} */
+
+
 
 
 .red{
@@ -423,6 +442,7 @@
     max-width: 180px;
   }
   
+  
   .a{
     font-size: 1rem;
     font-weight: bold;
@@ -509,6 +529,124 @@
     
     
   }
+
+  .form1{
+    background-image: linear-gradient(rgba(76, 2, 27, 0.7), rgba(97, 1, 36, 0.7)),url("/public/2.jpeg");
+    background-size: cover;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+  }
+
+
+  .cont-mission{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 1700px;
+    gap: 2px;
+    color: #fff;
+  }
+  
+  .mission{
+    font-size: 39px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+  }
+  
+  
+  .org{
+    width: 400px;
+    height: 240px;
+  }
+  
+  .paragra{
+   
+    font-size: 16px;
+    text-align: justify;
+    padding: 20px;
+    color: white;
+    border-radius: 45px 10px;
+  }
+
+
+  .form2{
+    background-color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 1000px;
+  }
+  
+  
+  .paragra1{
+    
+   font-size: 15px;
+   text-align: justify;
+   padding: 20px;
+   color: black;
+  }
+  
+  .mission1{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 69px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: bold;
+    color: rgb(2, 2, 83);
+  }
+
+
+  .visio {
+    color: rgb(5, 1, 66);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    padding: 8px;
+    border-radius:0 0 12px 12px;
+    border:3px solid #f0050500;
+    border-top: none;
+    -webkit-mask:
+      linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+      linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+      linear-gradient(#fff 0 0) top /calc(100% - 12px) calc(100% - 12px);
+    -webkit-mask-repeat:no-repeat;
+    transition: 0.3s,border-color 0.3s 0.3s;
+  }
+  .visio{
+    border-color:currentColor;
+    -webkit-mask-position:0% 100%,100% 100%,top;
+    transition: 0.3s,-webkit-mask-position 0.3s 0.3s;
+  }
+  
+  .visio1 {
+    color: rgb(251, 247, 250);
+    font-size: 30px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+    padding: 8px;
+    border-radius:0 0 12px 12px;
+    border:3px solid #f0050500;
+    border-top: none;
+    -webkit-mask:
+      linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+      linear-gradient(#fff 0 0) 50% 100%/80px 20px,
+      linear-gradient(#fff 0 0) top /calc(100% - 12px) calc(100% - 12px);
+    -webkit-mask-repeat:no-repeat;
+    transition: 0.3s,border-color 0.3s 0.3s;
+  }
+  .visio1{
+    border-color:currentColor;
+    -webkit-mask-position:0% 100%,100% 100%,top;
+    transition: 0.3s,-webkit-mask-position 0.3s 0.3s;
+  }
+  
+  
   
   
   .zkin{

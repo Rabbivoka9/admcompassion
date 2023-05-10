@@ -9,7 +9,7 @@ import Form2 from "../Composant/Forme2";
 function Home(){
     return (
 
-        <div className="tout">
+        <div className="tout1">
             <Header/>
             <Slide/>
             <Form1/>
