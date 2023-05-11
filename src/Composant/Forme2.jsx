@@ -6,12 +6,12 @@ function Form2 (){
     return(
         <div className="form2">
             <div className="cont-mission">
-                <div className="mission1">
+                <div className="mission10">
                     <h2 className="visio">Vision</h2>
                     <p className="paragra1">Etre un centre de reveil,d’évangélisation, de formation et de mission pour le monde entier d’où la dénomination (CREFM).</p>
                 </div>
 
-                <div className="mission1">
+                <div className="mission10">
                     <h2 className="visio" >Valeur</h2>
                      <div className="paragra1">
                             <p className="mise">Amour :1 corinthiens 16 :14
@@ -24,18 +24,6 @@ function Form2 (){
                             </p>
                     </div>
                 </div>
-
-                <div className="mission1">
-                    <h2 className="visio" >Organigramme</h2>
-                     <div className="paragra1">
-                           <img className="org" src="or.png" alt="" />
-
-                    </div>
-                </div>
-                
-
-                
-               
             </div>
             
 

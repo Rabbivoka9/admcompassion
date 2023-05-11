@@ -12,7 +12,7 @@ function Header (){
                     brand={<a className="brand-logo" href="#"><img className="logo" src="logocompassion.png" alt="" /></a>}
                     centerChildren
                     id="mobile-nav"
-                    menuIcon={<Icon>Navico</Icon>}
+                    menuIcon={<Icon className="mm">menu</Icon>}
                     options={{
                         draggable: true,
                         edge: 'left',
