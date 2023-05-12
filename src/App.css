@@ -2,7 +2,9 @@
   width: 100%;
   max-width: 180px;
 }
-
+.carousel{
+  height: 80vh;
+}
 
 .nav{
   background-color: white;
@@ -50,7 +52,7 @@
   background-image: linear-gradient(rgba(245, 207, 246, 0.7), rgba(78, 5, 145, 0.9)),url("/public/3.jpeg");
   background-size: cover;
   display: flex;
-  height: 1500px;
+ 
   flex-direction: column;
   justify-content: center;
   align-items: center;
@@ -277,7 +279,7 @@
 }
 
 .form1{
-  background-image: linear-gradient(rgba(76, 2, 27, 0.7), rgba(97, 1, 36, 0.7)),url("/public/2.jpeg");
+  background-image: linear-gradient(rgba(252, 249, 250, 0.7), rgba(255, 254, 254, 0.7));
   background-size: cover;
   display: flex;
   justify-content: center;
@@ -290,7 +292,7 @@
   justify-content: center;
   align-items: center;
   gap: 50px;
-  color: #fff;
+  color: #080000;
 }
 
 .mission10{
@@ -322,13 +324,13 @@
   font-size: 20px;
   text-align: justify;
   padding: 20px;
-  color: white;
+  color: rgb(9, 0, 0);
   border-radius: 45px 10px;
   width: 900px;
 }
 
 .form2{
-  background-color: #fff;
+  background-image: linear-gradient(rgba(76, 2, 27, 0.7), rgba(97, 1, 36, 0.7));
   display: flex;
   justify-content: center;
   align-items: center;
@@ -336,12 +338,12 @@
 }
 
 .form3{
-  background-image: linear-gradient(rgba(97, 38, 64, 0.952), rgba(179, 31, 41, 0.7)),url("/public/4.jpeg");
+  background-image: linear-gradient(rgba(248, 244, 246, 0.952), rgba(251, 248, 249, 0.7));
   background-size: cover;
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 500px;
+  height: 550px;
 }
 
 
@@ -350,7 +352,7 @@
  font-size: 20px;
  text-align: justify;
  padding: 20px;
- color: black;
+ color: rgb(251, 248, 248);
 }
 
 .mission1{
@@ -365,7 +367,7 @@
 }
 
 .visio {
-  color: rgb(53, 1, 25);
+  color: rgb(250, 247, 249);
   font-size: 40px;
   font-weight: bold;
   font-family: 'Oswald', sans-serif;
@@ -387,7 +389,7 @@
 }
 
 .visio1 {
-  color: rgb(251, 247, 250);
+  color: rgb(6, 0, 5);
   font-size: 50px;
   font-weight: bold;
   font-family: 'Oswald', sans-serif;
@@ -433,11 +435,6 @@
 
 .organisation{
   width: 800px;
-  height: 20px;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  align-items: center;
 }
 
 .admina{
@@ -512,7 +509,7 @@
   }
   
   .red{
-    background-image: linear-gradient(rgba(195, 93, 250, 0.7), rgba(6, 0, 0, 0.9)),url("/public/fond1.jpeg");
+    background-image: linear-gradient(rgba(195, 93, 250, 0.7), rgba(6, 0, 0, 0.9)),url("/public/3.jpeg");
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -578,7 +575,7 @@
   }
 
   .form1{
-    background-image: linear-gradient(rgba(76, 2, 27, 0.7), rgba(97, 1, 36, 0.7)),url("/public/2.jpeg");
+    background-image: linear-gradient(rgba(252, 249, 250, 0.7), rgba(255, 254, 254, 0.7));
     background-size: cover;
     display: flex;
     flex-wrap: wrap;
@@ -595,7 +592,7 @@
     align-items: center;
     width: 1700px;
     gap: 2px;
-    color: #fff;
+    color: #010000;
   }
   
   .mission{
@@ -615,7 +612,7 @@
     font-size: 16px;
     text-align: justify;
     padding: 20px;
-    color: white;
+    color: rgb(4, 0, 0);
     width: 400px;
   }
 
@@ -635,7 +632,7 @@
    font-size: 15px;
    text-align: justify;
    padding: 20px;
-   color: black;
+   color: rgb(251, 249, 249);
   }
   
   .mission1{
@@ -662,7 +659,7 @@
 
 
   .visio {
-    color: rgb(5, 1, 66);
+    color: rgb(250, 250, 251);
     font-size: 30px;
     font-weight: bold;
     font-family: 'Oswald', sans-serif;
@@ -684,7 +681,7 @@
   }
   
   .visio1 {
-    color: rgb(251, 247, 250);
+    color: rgb(2, 0, 2);
     font-size: 30px;
     font-weight: bold;
     font-family: 'Oswald', sans-serif;
@@ -774,6 +771,7 @@
     text-align: center;
     margin-left: 30px;
     width: 300px;
+    font-size: 12px;
     
   }
   
@@ -785,6 +783,8 @@
     text-align: center;
     padding: 10px;
     text-align: center;
+    height: 88px;
+    
   }
 
   .cont-icon{
@@ -797,7 +797,7 @@
   }
   
   .icon{
-    width: 30px;
+    width: 20px;
   }
 
   .nn{
@@ -815,6 +815,10 @@
     width: 350px;
     height: 400px;
    
+  }
+
+  .organisation{
+    width: 400px;
   }
   
  

@@ -7,7 +7,7 @@ import '../App.css';
 
 function Header (){
     return(
-                <Navbar className="nav"
+                <Navbar className="nav" 
                     alignLinks="right"
                     brand={<a className="brand-logo" href="#"><img className="logo" src="logocompassion.png" alt="" /></a>}
                     centerChildren

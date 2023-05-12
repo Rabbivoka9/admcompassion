@@ -1,9 +1,9 @@
 
 function Organi (){
     return (
-        <div className="organi">
+        <div>
 
-            <img src="organi.png" alt="" />
+            <img className="organisation" src="organise.png" alt="" />
 
         </div>
     )
