@@ -25,7 +25,7 @@ function Zp(){
               </div>
 
               <div>
-                <Car1 img="past fidele.png" Nom='Couple Fidele & Miyah KABELA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°74 , Q.Kinkanda sur la Route Nsanka' contact='+243821429845' titre='Compassion/MATADI'/>
+                <Car1 img="past fidele.png" Nom='Couple Fidele & Miyah KABELA'  effectif='350 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°74 , Q.Kinkanda sur la Route Nsanka' contact='+243821429845' titre='Compassion/MATADI'/>
               </div>
 
               <div>
