@@ -17,11 +17,11 @@ function Zp(){
         <div className="zpro">
 
         <div>
-                <Car1 img="past tresor.png" Nom='Pasteur Tresor KILOLO '  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='En face de l eglise Orthodoxe, 4éme Parcelle à droite, Q.YAMBI' contact='+243' titre='Compassion/BUNIA'/>
+                <Car1 img="past tresor.png" Nom='Pasteur Tresor KILOLO '  effectif='80 Membres'  situation='Dans la recherche du demenagement.'  adresse='En face de l eglise Orthodoxe, 4éme Parcelle à droite, Q.YAMBI' contact='+243' titre='Compassion/BUNIA'/>
               </div>
 
               <div>
-                <Car1 img="past shadrack.png" Nom='Shadrack MAMPUYA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°83, Centre Commercial Réf ex Bar Hewa-Bora avant 3 Maison' contact='+243830237613' titre='Compassion/KWILU-NGONGO'/>
+                <Car1 img="past shadrack.png" Nom='Shadrack MAMPUYA'  effectif='50 Membres'  situation=''  adresse='n°83, Centre Commercial Réf ex Bar Hewa-Bora avant 3 Maison' contact='+243830237613' titre='Compassion/KWILU-NGONGO'/>
               </div>
 
               <div>
@@ -54,6 +54,25 @@ function Zp(){
 
               <div>
                 <Car1 img="past roger.png" Nom='Couple Roger & Bijoux KITAMBO'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°206, Av.Kasongolunda, Q.Malebo, C.Malebo' contact='+243824221050' titre='Compassion/MALEBO'/>
+              </div>
+              <div>
+                <Car1 img="" Nom='Couple Olivier & Sarah PATAOULI'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°206, Av.Kasongolunda, Q.Malebo, C.Malebo' contact='+243824221050' titre='Compassion/KOLWEZI'/>
+              </div>
+
+              <div>
+                <Car1 img="" Nom='Pasteur Brown'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°206, Av.Kasongolunda, Q.Malebo, C.Malebo' contact='+243824221050' titre='Compassion/BOMA'/>
+              </div>
+
+              <div>
+                <Car1 img="" Nom='Pasteur Hardy'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°206, Av.Kasongolunda, Q.Malebo, C.Malebo' contact='+243824221050' titre='Compassion/CARAVANE'/>
+              </div>
+
+              <div>
+                <Car1 img="" Nom='Pasteur Fils PAKA'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°206, Av.Kasongolunda, Q.Malebo, C.Malebo' contact='+243824221050' titre='Compassion/BUTEMBO'/>
+              </div>
+
+              <div>
+                <Car1 img="" Nom='Pasteur Jhon LUMBU'  effectif='500 Membres'  situation='En déménagement sur le numero 9 en attendant la finition du temple au numéro 4.'  adresse='n°206, Av.Kasongolunda, Q.Malebo, C.Malebo' contact='+243824221050' titre='Compassion/KASUMBALESA'/>
               </div>
 
         </div>
