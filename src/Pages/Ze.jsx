@@ -26,6 +26,13 @@ function Ze(){
                   <Car1 img="past max.png" Nom='Pasteur Max RENAUX' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/Luxemb'/>
                 </div>
 
+                <div>
+                  <Car1 img="" Nom='Pasteur Jacques' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/Braine le comte'/>
+                </div>
+                <div>
+                  <Car1 img="" Nom='Pasteur Armand' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/Suisse'/>
+                </div>
+
 
           </div>
 

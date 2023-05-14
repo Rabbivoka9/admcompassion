@@ -43,6 +43,9 @@ function Za(){
      <div>
        <Car1 img="past lome.png" Nom='Pasteur Josué KAYINDA' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/YAOUNDE'/>
      </div>
+     <div>
+       <Car1 img="" Nom='Pasteur Lilianne' Marcello TUNASI desc='sdfghertydfgh' titre='Compassion/LUANDA'/>
+     </div>
 
 
 </div>
