@@ -6,6 +6,10 @@
   height: 80vh;
 }
 
+.tout1{
+  height: auto;
+}
+
 .nav{
   background-color: white;
 }
@@ -590,7 +594,7 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    width: 1700px;
+    width: 80px;
     gap: 2px;
     color: #010000;
   }
@@ -603,7 +607,7 @@
   
   
   .org{
-    width: 400px;
+    width: 340px;
     height: 240px;
   }
   
@@ -613,7 +617,7 @@
     text-align: justify;
     padding: 20px;
     color: rgb(4, 0, 0);
-    width: 400px;
+    width: 350px;
   }
 
 
@@ -624,6 +628,15 @@
     flex-wrap: wrap;
     align-items: center;
     height: 700px;
+  }
+
+  .form3{
+    background-image: linear-gradient(rgba(248, 244, 246, 0.952), rgba(251, 248, 249, 0.7));
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 460px;
   }
   
   
@@ -722,7 +735,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 40px;
-    height: 3000px;
+    height: auto;
   }
   
   
@@ -733,7 +746,7 @@
     justify-content: center;
     align-items: center;
     margin-top: 40px;
-    height: 1300px;
+    height: auto;
   }
   
   .zpro{
@@ -769,7 +782,6 @@
     justify-content: center;
     align-items: center;
     text-align: center;
-    margin-left: 30px;
     width: 300px;
     font-size: 12px;
     
@@ -783,7 +795,7 @@
     text-align: center;
     padding: 10px;
     text-align: center;
-    height: 88px;
+    height: 68px;
     
   }
 
@@ -792,7 +804,7 @@
     justify-content: center;
     align-items: center;
     gap: 20px;
-    margin-left: 30px;
+   
     width: 300px;
   }
   
@@ -818,8 +830,10 @@
   }
 
   .organisation{
-    width: 400px;
+    width: 340px;
   }
+  
+ 
   
  
   
